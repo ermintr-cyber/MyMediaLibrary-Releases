@@ -1,0 +1,16 @@
+{
+  "version": "3.17.0",
+  "published_at": "2026-09-01T18:49:40Z",
+  "notes": "My Media Library 3.17.0",
+  "minimum_version": "3.16.1",
+  "windows": {
+    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/v3.17.0/MyMediaLibrary_Setup_3.17.0.exe",
+    "sha256": "0a85e21862e28d93f74f62cd8e76e99d89504cd269f2431cb171e16e13a9d687",
+    "size": 2257204
+  },
+  "android": {
+    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/v3.17.0/MyMediaLibrary_Android_3.17.0.apk",
+    "sha256": "2d5624a2d6bcc27394030d39ebf7c5d6500f0a17aef0a494d052b7e5437fdf73",
+    "size": 1235798
+  }
+}
