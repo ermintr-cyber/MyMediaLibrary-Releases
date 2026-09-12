@@ -1,16 +1,16 @@
 {
-  "version": "3.22.2",
-  "published_at": "2026-09-12T21:02:25Z",
-  "notes": "My Media Library 3.22.2",
+  "version": "3.22.3",
+  "published_at": "2026-09-12T21:38:21Z",
+  "notes": "My Media Library 3.22.3",
   "minimum_version": "3.16.1",
   "windows": {
-    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/v3.22.2/MyMediaLibrary_Setup_3.22.2.exe",
-    "sha256": "ca54d0ead23e70494b59c3092a06ba08f07bcc6a3fdc4a0bb410f58ab465ae50",
-    "size": 39070369
+    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/v3.22.3/MyMediaLibrary_Setup_3.22.3.exe",
+    "sha256": "3e907281e09f999c1bfd3f2a36629d7bcf5f90e8123eadddef1ce1af99452567",
+    "size": 39029970
   },
   "android": {
-    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/v3.22.2/MyMediaLibrary_Android_3.22.2.apk",
-    "sha256": "714efb63b05c40470ebcb39a9a7f7b1ea3cffd433b142a1833f182b2ca2fc289",
-    "size": 1237490
+    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/v3.22.3/MyMediaLibrary_Android_3.22.3.apk",
+    "sha256": "26c27f010458176d1ceb3f41d2356a903c7d129752e7ba3e9f9c32a3d57abd98",
+    "size": 1237486
   }
 }
