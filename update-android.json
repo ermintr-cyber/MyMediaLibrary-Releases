@@ -1,0 +1,10 @@
+{
+  "version": "3.23.3",
+  "platform": "android",
+  "android": {
+    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/android-v3.23.3/MyMediaLibrary_Android_3.23.3.apk",
+    "sha256": "6461caa65ac2c4eb785b3096cf5b3ca06bbcb8da424c14263432dc81033b4119",
+    "size": 1396662,
+    "version": "3.23.3"
+  }
+}
