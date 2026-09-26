@@ -1,10 +1,10 @@
 {
-  "version": "3.24.0",
+  "version": "3.24.1",
   "platform": "windows",
   "windows": {
-    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/windows-v3.24.0/MyMediaLibrary_Setup_3.24.0.exe",
-    "sha256": "4f243eb692245c916f00f1c2e7046741c5f9f4dfb145aa7233394b7f5f2d4ae8",
-    "size": 39138182,
-    "version": "3.24.0"
+    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/windows-v3.24.1/MyMediaLibrary_Setup_3.24.1.exe",
+    "sha256": "de435a8603f124b340ce5601e24dde1888546a642aef90c273cf35290a53099f",
+    "size": 39138859,
+    "version": "3.24.1"
   }
 }
