@@ -1,10 +1,10 @@
 {
-  "version": "3.24.1",
+  "version": "3.24.2",
   "platform": "android",
   "android": {
-    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/android-v3.24.1/MyMediaLibrary_Android_3.24.1.apk",
-    "sha256": "5262a1132c1cef88fc2b477c14a061deb8997904ad71161fe78f44e3623cc0f1",
-    "size": 1402778,
-    "version": "3.24.1"
+    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/android-v3.24.2/MyMediaLibrary_Android_3.24.2.apk",
+    "sha256": "0bd50461ee5ade030f827c4a8d1b93f4062b1e6da59da67a9a0d58966257e5bc",
+    "size": 1403938,
+    "version": "3.24.2"
   }
 }
