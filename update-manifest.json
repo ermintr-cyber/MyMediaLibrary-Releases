@@ -1,7 +1,7 @@
 {
   "version": "3.24.0",
-  "published_at": "2026-09-26T19:37:43.568444+00:00",
-  "notes": "Android 3.24.0; platform updates are independent.",
+  "published_at": "2026-09-26T20:39:36.495456+00:00",
+  "notes": "Android 3.24.1; platform updates are independent.",
   "minimum_version": "3.16.1",
   "windows": {
     "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/windows-v3.24.0/MyMediaLibrary_Setup_3.24.0.exe",
@@ -10,9 +10,9 @@
     "version": "3.24.0"
   },
   "android": {
-    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/android-v3.24.0/MyMediaLibrary_Android_3.24.0.apk",
-    "sha256": "93c0f9e78c62770408516dfc354265877e462673370321fed38d1a562b308d01",
-    "size": 1401418,
-    "version": "3.24.0"
+    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/android-v3.24.1/MyMediaLibrary_Android_3.24.1.apk",
+    "sha256": "5262a1132c1cef88fc2b477c14a061deb8997904ad71161fe78f44e3623cc0f1",
+    "size": 1402778,
+    "version": "3.24.1"
   }
 }
