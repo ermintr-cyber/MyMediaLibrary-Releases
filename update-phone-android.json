@@ -1,10 +1,10 @@
 {
-  "version": "1.26.0",
+  "version": "1.26.1",
   "platform": "android",
   "android": {
-    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/phone-android-v1.26.0/MyPhoneLibrary_Android_1.26.0.apk",
-    "sha256": "a534e987caa2ff247afaa2747a58c3f72749bc00a594d23635a358df1a6cab02",
-    "size": 2707073,
-    "version": "1.26.0"
+    "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/phone-android-v1.26.1/MyPhoneLibrary_Android_1.26.1.apk",
+    "sha256": "a11bbe986c2840862f55b97105855aededd680e66639670a9a1163d5f9ff7f7f",
+    "size": 2707221,
+    "version": "1.26.1"
   }
 }
