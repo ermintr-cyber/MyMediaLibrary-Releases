@@ -2,9 +2,9 @@
   "product": "MyToolbox",
   "platform": "android",
   "application_id": "com.mytoolbox.app",
-  "version": "0.5.0",
-  "version_code": 8,
-  "size": 6718008,
-  "sha256": "8b7c6959495717a7746fde6cc68411cb1aea8ec5b3130f8c8a808cc15ca6bc65",
-  "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/toolbox-android-v0.5.0/MyToolbox_Android_0.5.0.apk"
+  "version": "0.5.1",
+  "version_code": 9,
+  "size": 6718747,
+  "sha256": "45b0daf056219c66ee3e82f593cb1c93138010556d3528c25bea29bdad5124d0",
+  "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/toolbox-android-v0.5.1/MyToolbox_Android_0.5.1.apk"
 }
