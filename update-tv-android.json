@@ -1,0 +1,10 @@
+{
+  "product": "MyTVLibrary",
+  "platform": "android-tv",
+  "application_id": "com.mytoolbox.tvlibrary",
+  "version": "0.4.0",
+  "version_code": 11,
+  "size": 5122508,
+  "sha256": "52670f9e6a7c7a0a06a18a238aef35d619ae3f703ea015a1967bfbbaf5a56f9b",
+  "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/tv-android-v0.4.0/MyTVLibrary_AndroidTV_0.4.0.apk"
+}
