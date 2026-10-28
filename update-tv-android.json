@@ -2,9 +2,9 @@
   "product": "MyTVLibrary",
   "platform": "android-tv",
   "application_id": "com.mytoolbox.tvlibrary",
-  "version": "0.6.1",
-  "version_code": 18,
-  "size": 5171832,
-  "sha256": "595a630708ec0783e9e7e4e156e7231deb5cc9b0c80bbd3fd1e8c3786601ef68",
-  "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/tv-android-v0.6.1/MyTVLibrary_AndroidTV_0.6.1.apk"
+  "version": "0.7.0",
+  "version_code": 19,
+  "size": 5181768,
+  "sha256": "2eeee62450801a5fd51fdc70d38116197b37385b42f1e5c4c2d789821689f83b",
+  "url": "https://github.com/ermintr-cyber/MyMediaLibrary-Releases/releases/download/tv-android-v0.7.0/MyTVLibrary_AndroidTV_0.7.0.apk"
 }
